@@ -1,0 +1,32 @@
+.container{
+    max-width: 50% !important;
+    background-color: #fff;
+    border-radius: 1rem;
+    padding: 3% 5% !important;
+    margin: 5% 0;
+}
+
+.div-title{
+    text-align: center;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 46px;
+    color: #251d12;
+    text-transform: uppercase;
+}
+
+label{
+    font-weight: bold;
+}
+
+.div-btn{
+    text-align: center;
+}
+
+.btn{
+    background-color: #02461c !important;
+    border: none !important;
+}
